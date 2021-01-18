@@ -10,7 +10,7 @@ In this project, I build a system for automatically classifying song lyrics comm
 - Implement techniques to improve your classifier <br />
 
 ## P2 Summary <br />
-This project focuses on sequence labeling with Hidden Markov Models and Deep Learning models. The target domain is part-of-speech <br />
+This project focuses on sequence labeling with Hidden Markov Models and Deep Learning models. The target domain is part-of-speech
 tagging on English and Norwegian from the Universal Dependencies dataset. <br />
 I performed the following steps: <br />
 - Performed basic preprocessing of the data <br />
